@@ -1,0 +1,28 @@
+{
+  "name": "jenkins-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayanfe5/Jenkins-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayanfe5/Jenkins-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Ayanfe5/Jenkins-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3",
+    "supertest": "^6.3.3"
+  }
+}
